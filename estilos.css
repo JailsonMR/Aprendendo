@@ -80,3 +80,17 @@ li .details {
     font-size: 14px;
     line-height: 21px;
 }
+
+.parag-qrcode {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.nota-rodape {
+    color: rgba(0, 0, 0, 1);
+    font-size: 10px;
+    line-height: 15px;
+}
+
+
